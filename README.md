@@ -33,7 +33,7 @@ Built with [Rich](https://github.com/Textualize/rich) for a colorful, table-driv
 Clone the repository and install the dependencies:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Atharva3777/Smart-Inventory-App.git
 cd smart-inventory-app
 pip install rich pandas openpyxl
 ```
